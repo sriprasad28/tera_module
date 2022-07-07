@@ -1,6 +1,6 @@
-sgname      = "dev-sg-21"
+sgname      = "App-SG"
 cidr        = ["0.0.0.0/0"]
 mytag       = "dev_env"
-amiid       = "ami-048841a3fdfcafb0f"
+amiid       = "ami-0a08e9df1dcec5e89"
 machinetype = "t2.micro"
-keyname     = "oct21-wekdays-morning"
+keyname     = "fiserv-key"
